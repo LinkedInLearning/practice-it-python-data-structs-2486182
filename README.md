@@ -1,9 +1,11 @@
-# COURSENAME
-This is the repository for the LinkedIn Learning course `course-name`. The full course is available from [LinkedIn Learning][lil-course-url].
+# Practice It: Python Data Structures 
+This is the repository for the LinkedIn Learning course Practice It: Python Data Structures . The full course is available from [LinkedIn Learning][lil-course-url].
 
-![course-name-alt-text][lil-thumbnail-url] 
+![Practice It: Python Data Structures ][lil-thumbnail-url]
 
-_See the readme file in the main branch for updated instructions and information._
+Are you looking to brush up on your Python skills? Maybe you’ve learned some Python basics and want to take your skills further? This course with Kaylee Kohfeldt provides some hands-on, practical training on Python concepts like sets, collections, string formatting, and lambda functions. Kayle covers skills that you may not use in your day-to-day programming—like a counter, palindrome checker, cleaning up duplicate data, and more—that can help you expand your Python knowledge. If you’re looking to take your Python skills to the next level so you can write more readable and efficient code, join Kaylee in this course.<br><br>This course is integrated with GitHub Codespaces, an instant cloud developer environment that offers all the functionality of your favorite IDE without the need for any local machine setup. With Codespaces, you can get hands-on practice from any machine, at any time—all while using a tool that you’ll likely encounter in the workplace. Check out the [Using GitHub Codespaces with this course][gcs-video-url] video to learn how to get started.
+
+
 ## Instructions
 This repository has branches for each of the videos in the course. You can use the branch pop up menu in github to switch to a specific branch and take a look at the course at that stage, or you can add `/tree/BRANCH_NAME` to the URL to go to the branch you want to access.
 
@@ -22,15 +24,12 @@ To resolve this issue:
     Add changes to git using this command: git add .
 	Commit changes using this command: git commit -m "some message"
 
-## Installing
-1. To use these exercise files, you must have the following installed:
-	- [list of requirements for course]
-2. Clone this repository into your local machine using the terminal (Mac), CMD (Windows), or a GUI tool like SourceTree.
-3. [Course-specific instructions]
+### Instructor
 
+Kaylee Kohfeldt
 
-[0]: # (Replace these placeholder URLs with actual course URLs)
+Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/kaylee-kohfeldt?u=104).
 
-[lil-course-url]: https://www.linkedin.com/learning/
-[lil-thumbnail-url]: http://
-
+[lil-course-url]: https://www.linkedin.com/learning/practice-it-python-data-structures
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/D560DAQErSxSAz69Qaw/learning-public-crop_675_1200/0/1666989847354?e=1667952000&v=beta&t=pj95VgrF2Nw2rGjA4PHAa_5O-nSdKMuqyFOm-LLSWpA
+[gcs-video-url]: https://www.linkedin.com/learning/practice-it-python-data-structures/using-github-codespaces-with-this-course-16045515
