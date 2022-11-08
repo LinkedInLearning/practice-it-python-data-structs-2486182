@@ -1,5 +1,5 @@
 # Practice It: Python Data Structures 
-This is the repository for the LinkedIn Learning course Practice It: Python Data Structures . The full course is available from [LinkedIn Learning][lil-course-url].
+This is the repository for the LinkedIn Learning course Practice It: Python Data Structures. The full course is available from [LinkedIn Learning][lil-course-url].
 
 ![Practice It: Python Data Structures ][lil-thumbnail-url]
 
